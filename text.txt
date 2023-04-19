@@ -1,0 +1,52 @@
+        <nav class="container text-center ">
+            <div class="row">
+                <div class="col-4">
+                    <h2>Moda e estilo</h2>
+                </div>
+                <div class="col-4">
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+                </div>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="col-4" id="navbarNav">
+                    <ul>
+                        <li>
+                            <a href="#">Atendimento</a>
+                        </li>
+                        <li>
+                            <a href="#">Minha Conta</a>
+                        </li>
+                        <li>
+                            <a href="#">Carrinho</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <span class="line"></span>
+            <nav class="mt-5 ">
+                <ul class="d-flex justify-content-between">
+                    <li>
+                        <a href="#">Vestidos</a>
+                    </li>
+                    <li>
+                        <a href="#">Conjuntos</a>
+                    </li>
+                    <li>
+                        <a href="#">Blusas</a>
+                    </li>
+                    <li>
+                        <a href="#">Cropped</a>
+                    </li>
+                    <li>
+                        <a href="#">Calças</a>
+                    </li>                    <li>
+                        <a href="#">Saias</a>
+                    </li>
+                </ul>
+            </nav>
+
+                </nav>
